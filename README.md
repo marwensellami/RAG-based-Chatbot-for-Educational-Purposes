@@ -391,9 +391,9 @@ This project is released under the **MIT License**. See the [LICENSE](LICENSE) f
 
 **Marwen Sellami**
 
-- GitHub: [@marwensellami](https://github.com/marwensellami)
-- Repository: [PyTutor — RAG-Based Chatbot for Educational Purposes](https://github.com/marwensellami/RAG-based-Chatbot-for-Educational-Purposes)
-
+- **GitHub:** [@marwensellami](https://github.com/marwensellami)
+- **Repository:** [PyTutor — RAG-Based Chatbot for Educational Purposes](https://github.com/marwensellami/RAG-based-Chatbot-for-Educational-Purposes)
+- **LinkedIn:** https://www.linkedin.com/in/marwen-sellami-78681b2b5/
 ---
 
 ## 🙏 Acknowledgements
